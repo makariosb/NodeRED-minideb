@@ -1,4 +1,4 @@
-#!/bin/env bash
+#!/usr/bin/env bash
 export NODE_VERSION="12"
 export NODE_RED_VERSION="2.0.6"
 
