@@ -2,7 +2,7 @@
 export NODE_VERSION="12"
 export NODE_RED_VERSION="2.0.6"
 
-echo "#########################################################################"
+echo "######################### NOW BUILDING ##################################"
 echo "node-js version: ${NODE_VERSION}"
 echo "node-red version: ${NODE_RED_VERSION}"
 echo "#########################################################################"
